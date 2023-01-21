@@ -1,0 +1,62 @@
+body{
+    background-image: url("imgess.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.main{
+    height 500;
+    width: 1200;
+}
+.row1{
+    height: 200;
+    width:1200 ;
+     text-align: center;          
+}
+.row2{
+    height: 150px ;
+    width: 1200;
+    text-align: center;
+
+}
+
+.row3{
+    height: 30;
+    width: 300;
+    text-align: left;
+    font-size: 20;
+    color: black;
+    margin-left: 10;
+    background-color: darkgoldenrod;
+}
+
+.row4{
+    height: 30;
+    width: 300;
+    text-align: left;
+    font-size: 20;
+    background-color: aliceblue;
+    margin-left: 10;
+}
+
+.row5{
+    height: 30;
+    width: 300;
+    text-align: left;
+    font-size: 20;
+    background-color:aliceblue;
+    margin-left: 10;
+}
+.row6{
+    height: 50;
+    width: 350;
+    text-align: left;
+    font-size: 20;
+    background-color: darkgoldenrod;
+    color: black;
+    margin-top: 45;
+    margin-left: 1000;
+    margin-bottom: 40;
+}
